@@ -1,0 +1,2 @@
+# MysteriousDocumentGenerator
+マルコフ連鎖を用いた怪文書を作成するだけのBOTを作りたいだけの人生だった
